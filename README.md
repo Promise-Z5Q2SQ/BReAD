@@ -1,4 +1,4 @@
-# 🍞 BReAD-anonymous 
+# 🍞 BReAD
 
 This is the official repository for the paper "**Brain Image Reconstruction with Retrieval-Augmented Diffusion**".
 
